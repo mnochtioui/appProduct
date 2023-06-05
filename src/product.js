@@ -1,0 +1,3 @@
+export const prd={"name": "Écran ASUS ZenScreen LCD MB165B", "price": "499DT", 
+"description": " Taille de l'écran: 15.6 WXGA, 60 Hz - Résolution: 1366 x 768 pixel - Type d'éclairage: LED - Type de dalle : TN - Format d'écran: 16:9 - Rapport de contraste: 500:1 - Luminosité: 220 cd/m² - Temps de réponse: 10 ms - Angle de vue (H / V): 90° H / 65° V - Connecteurs: 1x USB 3.0 (Signal) - Fonctions vidéo: Support HDCP, Widget d'affichage - Dimensions: 360.14 x 225.64 x 11.8 mm (sans pied) - Poids: 780 g (sans pied) - Couleur: Noir - Garantie: 1 an", 
+"url": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/9/0/90lm0703-b01170.jpg"}
